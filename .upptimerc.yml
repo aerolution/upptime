@@ -8,7 +8,7 @@ sites:
   - name: Personal Image Host
     url: https://murderer.katlyn.cloud
   - name: Blog
-    url: https://blog.katlyn.cloud
+    url: https://forum.katlyn.cloud
   - name: Private Beta Host (Unreleased)
     url: https://pics.katlyn.cloud
 

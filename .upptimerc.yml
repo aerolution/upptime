@@ -9,7 +9,7 @@ sites:
     url: https://murderer.katlyn.cloud
   - name: Blog
     url: https://blog.katlyn.cloud
-  - name: Private Beta Host
+  - name: Private Beta Host (Unreleased)
     url: https://host.katlyn.cloud
 
 status-website:
@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "This is a static status site for **katlyn.cloud.** Running on **upptime**."
-  introMessage: Below are all status reports:
+  introMessage: Below are all status reports for katlyn.cloud domains.
   navbar:
     - title: Status
       href: /

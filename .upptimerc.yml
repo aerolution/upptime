@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Landing site
     url: https://katlyn.cloud
-  - name: Personal Image Host
-    url: https://murderer.katlyn.cloud
-  - name: Blog
+  - name: Giraffe API
+    url: https://api.katlyn.cloud
+  - name: Forum
     url: https://forum.katlyn.cloud
-  - name: Private Beta Host (Unreleased)
-    url: https://pics.katlyn.cloud
+  - name: Private Image Host
+    url: https://host.katlyn.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

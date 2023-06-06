@@ -11,7 +11,7 @@ sites:
     url: https://forum.katlyn.cloud
   - name: Private Image Host
     url: https://host.katlyn.cloud
-  - name:
+  - name: Lain Discord Bot
     url: http://172.105.134.225:8000
 
 status-website:

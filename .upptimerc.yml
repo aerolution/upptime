@@ -11,6 +11,8 @@ sites:
     url: https://forum.katlyn.cloud
   - name: Private Image Host
     url: https://host.katlyn.cloud
+  - name:
+    url: http://172.105.134.225:8000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

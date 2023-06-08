@@ -4,7 +4,7 @@
     "url": "https://katlyn.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/katlyn.cloud.ico",
     "slug": "landing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 531,
-    "timeWeek": 741,
+    "timeWeek": 1024,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {}

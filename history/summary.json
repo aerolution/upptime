@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 420,
-    "timeWeek": 943,
+    "timeWeek": 924,
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "http://172.105.134.225:8000",
     "icon": "https://icons.duckduckgo.com/ip3/172.105.134.225.ico",
     "slug": "lain-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

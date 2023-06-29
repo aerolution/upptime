@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2758,
     "timeDay": 0,
-    "timeWeek": 9560,
+    "timeWeek": 9790,
     "timeMonth": 2758,
     "timeYear": 2758,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://forum.katlyn.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/forum.katlyn.cloud.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
